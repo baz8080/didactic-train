@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColourGuesser</string>
+    <string name="contrast_label">SHOULD CONTRAST WELL!</string>
+</resources>

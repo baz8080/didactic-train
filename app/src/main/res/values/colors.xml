@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Red -->
+    <!--DAB-->
+    <!--D/HSL: H is: 4.1052637-->
+    <!--D/HSL: S is: 0.89622647-->
+    <!--D/HSL: L is: 0.58431375-->
+    <color name="colorPrimary">#1a237e</color>
+    <color name="colorPrimaryDark">#bdbdbd</color>
+
+    <!-- Pink -->
+    <!--DAB-->
+    <!--D/HSL: H is: 339.6059-->
+    <!--D/HSL: S is: 0.82186234-->
+    <!--D/HSL: L is: 0.5156863-->
+    <!--<color name="colorPrimary">#E91E63</color>-->
+    <!--<color name="colorPrimaryDark">#880E4F</color>-->
+
+    <!-- Purple -->
+    <!--DAB-->
+    <!--D/HSL: H is: 291.24088-->
+    <!--D/HSL: S is: 0.63720936-->
+    <!--D/HSL: L is: 0.42156863-->
+    <!--<color name="colorPrimary">#9C27B0</color>-->
+    <!--<color name="colorPrimaryDark">#4A148C</color>-->
+
+    <!-- Deep Purple -->
+    <!--DAB-->
+    <!--D/HSL: H is: 261.6-->
+    <!--D/HSL: S is: 0.5186722-->
+    <!--D/HSL: L is: 0.47254902-->
+    <!--<color name="colorPrimary">#673AB7</color>-->
+    <!--<color name="colorPrimaryDark">#311B92</color>-->
+
+    <!-- Indigo -->
+    <!--DAB-->
+    <!--D/HSL: H is: 230.84746-->
+    <!--D/HSL: S is: 0.48360658-->
+    <!--D/HSL: L is: 0.47843137-->
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#1A237E</color>-->
+
+    <!--Blue-->
+    <!--DAB-->
+    <!--D/HSL: H is: 206.57143-->
+    <!--D/HSL: S is: 0.89743596-->
+    <!--D/HSL: L is: 0.5411765-->
+    <!--<color name="colorPrimary">#2196F3</color>-->
+    <!--<color name="colorPrimaryDark">#0D47A1</color>-->
+
+    <!--Light Blue-->
+    <!--LAB-->
+    <!--D/HSL: H is: 198.6722-->
+    <!--D/HSL: S is: 0.9757085-->
+    <!--D/HSL: L is: 0.48431373-->
+    <!--<color name="colorPrimary">#03A9F4</color>-->
+    <!--<color name="colorPrimaryDark">#01579B</color>-->
+
+
+    <color name="colorAccent">#FF4081</color>
+</resources>
